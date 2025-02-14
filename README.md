@@ -1,2 +1,2 @@
-# AVNSC-demo
+# VNSC-demo
 # Inter2025
